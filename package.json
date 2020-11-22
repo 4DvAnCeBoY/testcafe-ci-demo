@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "testcafe": "*",
-    "testcafe-reporter-xunit": "*",
-    "testcafe-browser-provider-lambdatest": "*"
+    "testcafe-browser-provider-lambdatest": "^2.0.3",
+    "testcafe-reporter-xunit": "^2.1.0"
   }
 }
